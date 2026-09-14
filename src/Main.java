@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hi, I am DP");
         System.out.println("Hi DP, I am MM");
         System.out.println("Hi DP and MM, I am SP");
+        System.out.println("Hi DP and MM, I am SG");
     }
 }
